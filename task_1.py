@@ -1,4 +1,4 @@
-numero = int(input())
+numero = int(input('Ingrese un numero entero positivo: '))
 
 def funcion_algoritmo(n):
     # agregamos el primer valor que es n
